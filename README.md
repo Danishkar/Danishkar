@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Danishkar<br>A passionate software developer looking to collaborate on awesome web and mobile projects.<br><br>🌱 I’m currently learning Flutter, JWT, Kotlin.<br><br>💬 Ask me about MERN Stack and Android development.<br><br>📫 How to reach me danishkar.s@gmail.com
+Hi 👋, I'm Danishkar<br>A passionate software developer looking to collaborate on awesome web and mobile projects.<br><br>🌱 I’m currently learning Spring Boot.<br><br>💬 Ask me about MERN Stack and Android development.<br><br>📫 How to reach me danishkar.s@gmail.com
 
 
 ## 🌐 Socials:
