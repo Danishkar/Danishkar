@@ -19,3 +19,5 @@ Hi 👋, I'm Danishkar<br>A passionate software developer looking to collaborate
 [![](https://visitcount.itsvg.in/api?id=Danishkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @danishkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishkar)](https://holopin.io/@danishkar)
+
