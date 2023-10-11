@@ -14,7 +14,7 @@ Hi 👋, I'm Danishkar<br>A passionate software developer looking to collaborate
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![An image of @danishkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishkar)](https://holopin.io/@danishkar)
+[![An image of @danishkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=danishkar)](https://holopin.io/@danishkar)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Danishkar&icon=0&color=0)](https://visitcount.itsvg.in)
