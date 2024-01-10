@@ -10,7 +10,8 @@ Hi 👋, I'm Danishkar<br>A passionate software developer looking to collaborate
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Danishkar&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Danishkar&show_icons=true&locale=en&layout=compact&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Danishkar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Danishkar&theme=radical&hide_border=false)
+<br/>
 
 ### ✍️ Holopin Badges:
 [![An image of @danishkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=danishkar)](https://holopin.io/@danishkar)
